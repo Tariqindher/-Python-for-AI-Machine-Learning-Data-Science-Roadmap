@@ -15,3 +15,8 @@ print(name)
 print(age)
 print(height)
 print(is_student)
+city = "Sukkur"
+country = "Pakistan"
+
+print(city)
+print(country)
